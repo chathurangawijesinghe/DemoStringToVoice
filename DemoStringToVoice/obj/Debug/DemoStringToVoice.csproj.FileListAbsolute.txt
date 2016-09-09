@@ -1,0 +1,9 @@
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\bin\Debug\DemoStringToVoice.exe.config
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\obj\Debug\DemoStringToVoice.csprojResolveAssemblyReference.cache
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\obj\Debug\DemoStringToVoice.frmStringToVoice.resources
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\obj\Debug\DemoStringToVoice.Properties.Resources.resources
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\obj\Debug\DemoStringToVoice.csproj.GenerateResource.Cache
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\bin\Debug\DemoStringToVoice.exe
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\bin\Debug\DemoStringToVoice.pdb
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\obj\Debug\DemoStringToVoice.exe
+F:\Test Projects\git-mine\DemoStringToVoice\DemoStringToVoice\obj\Debug\DemoStringToVoice.pdb
